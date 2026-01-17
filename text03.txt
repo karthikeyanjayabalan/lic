@@ -2,4 +2,8 @@ test99.txt added from remote repo @011726/1110am
 
 @011726/0535pm: Edited text03.txt from remote repo and added this line.
 
+<<<<<<< Updated upstream
 @011726/0556pm: line#03 added from remote repo.
+=======
+@011726/0558pm: line#03 added from local repo
+>>>>>>> Stashed changes
